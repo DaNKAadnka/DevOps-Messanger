@@ -1,0 +1,6 @@
+[submodule "Messanger-frontend"]
+	path = project_frontend
+	url = https://github.com/shs69/project_frontend
+[submodule "Messanger-backend"]
+	path = project_back
+	url = https://github.com/VtheSaint/project_back
